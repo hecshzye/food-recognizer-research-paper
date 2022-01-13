@@ -22,3 +22,6 @@ Mixed Pricision - https://www.tensorflow.org/guide/mixed_precision
 ## Accuracy achieved by DeepFood Research Paper = **77.4%**
 
 **Successfully scored 79.999% accuracy for the computer vision model by beating the previous best score by DeepFood Research Paper of Cornell University**
+
+
+Tensorboard logs at Tensoflow Developer site: https://tensorboard.dev/experiment/g0RluvzpQA2gxNYnilR5Zw/#scalars
