@@ -18,3 +18,7 @@ Mixed Pricision - https://www.tensorflow.org/guide/mixed_precision
 - The proposed system in this paper aims to improve the accuracy of dietary assessment by analyzing food images captured by mobile devices.
 - The key techinique innovation in this paper is the deep learning based food image recognitiion algorithms. Substantial research has demonstrated that digital imaging accurately estimates dietary intake in many environments and it has many advantages over other methods.
 
+## Accuracy Achieved = **79.999%**
+## Accuracy achieved by DeepFood Research Paper = **77.4%**
+
+**Successfully scored 79.999% accuracy for the computer vision model by beating the previous best score by DeepFood Research Paper of Cornell University**
